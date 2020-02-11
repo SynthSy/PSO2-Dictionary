@@ -15,3 +15,6 @@ So unless a player has previously used the fan translation  patch on the Japanes
 the Japanese servers, will be confused by the terminology differences. 
 
 This dictionary aims to bridge a gap between the two servers, thus allowing for the two communities to enjoy resources available to their fullest extent.
+
+### How to use?
+Click on the Wiki button at the top (if on desktop view) to view the dictionary.
